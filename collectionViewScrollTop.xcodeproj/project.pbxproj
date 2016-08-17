@@ -12,6 +12,9 @@
 		B1045EC91D51E8C9009D9805 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1045EC71D51E8C9009D9805 /* Main.storyboard */; };
 		B1045ECB1D51E8C9009D9805 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1045ECA1D51E8C9009D9805 /* Assets.xcassets */; };
 		B1045ECE1D51E8C9009D9805 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1045ECC1D51E8C9009D9805 /* LaunchScreen.storyboard */; };
+		B1045ED61D51EB29009D9805 /* TopUICollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1045ED51D51EB29009D9805 /* TopUICollectionView.swift */; };
+		B1045ED81D51EB31009D9805 /* MYLayout1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1045ED71D51EB31009D9805 /* MYLayout1.swift */; };
+		B1045EDC1D51ED16009D9805 /* BlueEffectImageViewClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1045EDB1D51ED16009D9805 /* BlueEffectImageViewClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		B1045ECA1D51E8C9009D9805 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1045ECD1D51E8C9009D9805 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B1045ECF1D51E8C9009D9805 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1045ED51D51EB29009D9805 /* TopUICollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopUICollectionView.swift; sourceTree = "<group>"; };
+		B1045ED71D51EB31009D9805 /* MYLayout1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MYLayout1.swift; sourceTree = "<group>"; };
+		B1045EDB1D51ED16009D9805 /* BlueEffectImageViewClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueEffectImageViewClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,9 @@
 			children = (
 				B1045EC31D51E8C9009D9805 /* AppDelegate.swift */,
 				B1045EC51D51E8C9009D9805 /* ViewController.swift */,
+				B1045ED51D51EB29009D9805 /* TopUICollectionView.swift */,
+				B1045ED71D51EB31009D9805 /* MYLayout1.swift */,
+				B1045EDB1D51ED16009D9805 /* BlueEffectImageViewClass.swift */,
 				B1045EC71D51E8C9009D9805 /* Main.storyboard */,
 				B1045ECA1D51E8C9009D9805 /* Assets.xcassets */,
 				B1045ECC1D51E8C9009D9805 /* LaunchScreen.storyboard */,
@@ -138,6 +147,9 @@
 			files = (
 				B1045EC61D51E8C9009D9805 /* ViewController.swift in Sources */,
 				B1045EC41D51E8C9009D9805 /* AppDelegate.swift in Sources */,
+				B1045EDC1D51ED16009D9805 /* BlueEffectImageViewClass.swift in Sources */,
+				B1045ED61D51EB29009D9805 /* TopUICollectionView.swift in Sources */,
+				B1045ED81D51EB31009D9805 /* MYLayout1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
